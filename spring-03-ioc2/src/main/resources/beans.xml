@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="user" class="com.zc.pojo.User">
+        <property name="name" value="张三" />
+    </bean>
+
+    <!-- 别名，如果添加了别名，我们也可以使用别名获取到这个对象 -->
+    <alias name="user" alias="userNew" />
+
+    <!--
+    id： bean 的唯一标识符，也就是相当于我们学的对象名
+    class： bean 对象所对应的权限定名： 包名 + 类名
+    name： 也是别名，而且name 可以同时取多个别名
+    -->
+    <bean id="userT" class="com.zc.pojo.User" name="userTT">
+        <property name="name" value="aaa" />
+    </bean>
+</beans>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="address" class="com.zc.pojo.Address" >
+        <property name="address" value="吉林" />
+    </bean>
+
+    <bean id="student" class="com.zc.pojo.Student">
+        <!-- 第一种，普通值注入 value -->
+        <property name="name" value="张三" />
+        <!-- 第二种，Bean注入 ref -->
+        <property name="address" ref="address" />
+
+        <!-- 数组注入 ref -->
+        <property name="books">
+            <array>
+                <value>Java</value>
+                <value>Spring</value>
+                <value>Mybatis</value>
+            </array>
+        </property>
+
+        <!-- List -->
+        <property name="hobbys">
+            <list>
+                <value>唱</value>
+                <value>跳</value>
+                <value>rap</value>
+                <value>篮球</value>
+            </list>
+        </property>
+
+        <!-- Map -->
+        <property name="card">
+            <map>
+                <entry key="身份证" value="11111222223333344" />
+                <entry key="银行卡" value="789456123321654987" />
+            </map>
+        </property>
+
+        <!-- Set -->
+        <property name="games">
+            <set>
+                <value>英雄联盟</value>
+                <value>地下城与勇士</value>
+                <value>穿越火线</value>
+            </set>
+        </property>
+
+        <!-- null -->
+        <property name="wife">
+            <null />
+        </property>
+
+        <!-- Properties -->
+        <property name="info">
+            <props>
+                <prop key="学号">20210209</prop>
+                <prop key="性别">男</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>

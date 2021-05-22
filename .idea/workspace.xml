@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e7ffc5e-4dd3-4a43-a20f-ba08c5a68e69" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.98.47.51" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.98.47.51" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="47.98.47.51" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oEGMC5p01mn0rgUa1uWHxoEOpS" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zc.mapper" />
+      <recent name="com.zc.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\project\spring-study\spring-11-transaction\src\main\java\com\zc\mapper" />
+      <recent name="G:\project\spring-study\spring-11-transaction\src\main\resources" />
+      <recent name="G:\project\spring-study\spring-10-mybatis\src\main\resources" />
+      <recent name="C:\Users\Administrator\Desktop\blog\vueblog-master\vueblog-master\spring-study\spring-08-proxy\src\main\java\com\zc\demo03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.test (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.demo02.Client" />
+      <module name="spring-08-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zc.demo03.Client" />
+      <module name="spring-08-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zc.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="spring-09-aop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-11-transaction" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-10-mybatis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.test (1)" />
+        <item itemvalue="JUnit.MyTest.test" />
+        <item itemvalue="Application.MyTest (1)" />
+        <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Client (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e7ffc5e-4dd3-4a43-a20f-ba08c5a68e69" name="Default Changelist" comment="" />
+      <created>1612844285141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612844285141</updated>
+      <workItem from="1612844290842" duration="20959000" />
+      <workItem from="1612875301531" duration="4365000" />
+      <workItem from="1612924446752" duration="11632000" />
+      <workItem from="1612940415228" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="172" key="#Project_Structure" timestamp="1612935071210">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="539" y="172" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1612935071210" />
+    <state x="421" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612936290234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="421" y="117" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1612936290234" />
+    <state x="929" y="209" key="#com.intellij.ide.util.MemberChooser" timestamp="1612936386029">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="929" y="209" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1612936386029" />
+    <state x="517" y="326" key="FileChooserDialogImpl" timestamp="1612943563790">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="517" y="326" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1612943563790" />
+    <state width="1046" height="36" key="GridCell.Tab.0.bottom" timestamp="1612938911368">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1046" height="36" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1612938911368" />
+    <state width="1046" height="36" key="GridCell.Tab.0.center" timestamp="1612938911368">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1046" height="36" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1612938911368" />
+    <state width="1046" height="36" key="GridCell.Tab.0.left" timestamp="1612938911368">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1046" height="36" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1612938911368" />
+    <state width="1046" height="36" key="GridCell.Tab.0.right" timestamp="1612938911368">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1046" height="36" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1612938911368" />
+    <state x="380" y="7" key="SettingsEditor" timestamp="1612844497268">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="7" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1612844497268" />
+    <state x="341" y="128" key="new project wizard" timestamp="1612943576540">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="341" y="128" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1612943576540" />
+    <state x="634" y="168" key="spring file set editor" timestamp="1612859199078">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="168" key="spring file set editor/0.0.1600.860@0.0.1600.860" timestamp="1612859199078" />
+  </component>
+</project>
